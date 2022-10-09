@@ -1,8 +1,3 @@
-### $1 "C:\Users\USER\Desktop\stonebranch\DreamCandiesFileTool\inputok"
-### $2 "C:\Users\USER\Desktop\stonebranch\DreamCandiesFileTool\bigcustomercsvok"
-### $3 "C:\Users\USER\Desktop\stonebranch\DreamCandiesFileTool\biginvoicecsvok"
-### $4 "C:\Users\USER\Desktop\stonebranch\DreamCandiesFileTool\biginvoice_itemcsvok"
-
 mapfile -t Arrayinput < $1 
 for string in "${Arrayinput[@]}";
 	do
