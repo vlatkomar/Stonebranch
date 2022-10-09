@@ -1,2 +1,2 @@
 # Stonebranch
-In order to execute correctly please read "How To - DreamCandies File Tool".
+In order to run and execute correctly the script, please read "How To - DreamCandies File Tool".
